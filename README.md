@@ -1,4 +1,4 @@
-1. Тестовое задание от компании "Avends".
+1. Яландаев Андрей. Тестовое задание от компании "Avends".
 
 2. Использовано: TypeScript, Redux-Toolkit, Antd, React-Router-Dom, Styled-Components.
 
