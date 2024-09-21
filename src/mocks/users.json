@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 13,
+      "login": "Сергей",
+      "username": "Сергей",
+      "password": "password"
+    },
+    {
+      "id": 234,
+      "login": "Петя",
+      "username": "Петя",
+      "password": "password"
+    },
+    {
+      "id": 3234,
+      "login": "Жанна",
+      "username": "Жанна",
+      "password": "password"
+    }
+  ],
+  "current_user": {
+    "id": 3234,
+    "login": "Жанна",
+    "username": "Жанна",
+    "password": "password"
+  }
+}
